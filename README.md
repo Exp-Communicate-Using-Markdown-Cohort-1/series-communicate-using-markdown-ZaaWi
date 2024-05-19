@@ -156,9 +156,11 @@ _Great job adding a code example to the file :partying_face:_
 
 #### How it looks
 
-- [x] List syntax is required
-- [x] This item is complete
-- [ ] This item is not complete
+- [ ] Code is properly formatted and indented.
+- [ ] Linting and static code analysis have been run with no errors.
+- [ ] Changes are documented in the commit message
+- [x] README file is updated to reflect the changes
+- [x] Course has a clear vision and goals documented.
 
 ### :keyboard: Activity: Add a task list
 
