@@ -119,8 +119,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 #### How it looks
 
 ```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+$ git status
+Get a quick snapshot of the current state of Git repository.
 ```
 
 ### :keyboard: Activity: Adding a code example
